@@ -6,10 +6,10 @@ Include the date you created this project and README file.
 Udacity git course BikeShare
 
 ### Description
-Describe what your project is about and what it does
+This purpose of this project is to learn version control
 
 ### Files used
-Include the files used
+Using the BikeShare file from the previous course
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
