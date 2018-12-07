@@ -1,3 +1,5 @@
+Created git BikeShare project on 12.07.18
+
 ### Date created
 Include the date you created this project and README file.
 
