@@ -12,5 +12,5 @@ This purpose of this project is to learn version control
 Using the BikeShare file from the previous course
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+During this course I learned a lot of valuable information from the Udacity course itself, but some things
+reguired additional research. For those cases I found stackoverflow.com to be a valuable resource.
