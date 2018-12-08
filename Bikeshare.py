@@ -31,7 +31,7 @@ def get_filters():
         month = input('Please select a month between January - June or select all: ' ).lower()
         if month in MONTHS:
             break
-        print("Please select a month from January through June or type all for all months")
+        print("Sorry, that is not a valid response. Please select a month from January through June or type all for all months")
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
